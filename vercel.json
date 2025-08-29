@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/bfhl",
+      "src": "/api/bfhl",
       "dest": "api/bfhl.js"
     }
   ]
